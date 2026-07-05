@@ -87,12 +87,9 @@ me.say_hi()
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matamela-m&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=111111&border_color=e4e2e2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matamela-m&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&border_color=e4e2e2" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matamela-m&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=555555&currStreakNum=111111&sideNums=555555&dates=888888" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=matamela-m&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
 
 </div>
 
