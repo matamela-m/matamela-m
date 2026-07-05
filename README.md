@@ -1,5 +1,7 @@
 <div align="center">
 
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=48&duration=2500&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Matamela+Makhado" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=48&duration=2500&pause=100000&color=111111&center=true&vCenter=true&width=700&lines=Matamela+Makhado" />
