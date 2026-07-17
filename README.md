@@ -85,14 +85,6 @@ me.say_hi()
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matamela-m&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=555555&currStreakNum=111111&sideNums=555555&dates=888888" />
-
-</div>
-
 </div>
 
 <br>
